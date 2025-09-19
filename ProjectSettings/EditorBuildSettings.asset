@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Opening.unity
+    guid: 7af03678508df6c40b12b82bd911554d
+  - enabled: 1
+    path: Assets/Scenes/Scene_1_Cave.unity
+    guid: cb81d7efd5c5dc644911eba4ecdbfd1a
+  - enabled: 1
+    path: Assets/Scenes/Scene_2_Mountain.unity
+    guid: bc990cf58ecf6da4d8ab4b5b1f1d2a23
+  - enabled: 1
+    path: Assets/Scenes/Scene_3_Forest.unity
+    guid: 06ff4b26799a16b448cb2a5680a44305
+  - enabled: 1
+    path: Assets/Stage4_Assets/Scenes/Scene_4_Starry.unity
+    guid: 4517449eac0319b40ae223bdb4012813
+  - enabled: 1
+    path: Assets/Scenes/Ending.unity
+    guid: 85d4709b7dbda024581333499a5f440b
+  m_configObjects: {}
